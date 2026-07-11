@@ -1,0 +1,11 @@
+# Environment secrets
+.env
+
+# Runtime uploaded files (company logos, resumes uploaded by users)
+upload/
+
+# Local Claude Code tool config
+.claude/
+
+# Generated repo dump (not source code)
+repomix-output.xml
